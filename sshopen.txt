@@ -1,0 +1,414 @@
+
+Starting Nmap 5.21 ( http://nmap.org ) at 2013-08-10 15:46 CST
+Nmap scan report for 10.66.43.1
+Host is up (0.016s latency).
+The 1 scanned port on 10.66.43.1 is closed
+MAC Address: 00:00:0C:07:AC:74 (Cisco Systems)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.66.43.2
+Host is up (0.017s latency).
+The 1 scanned port on 10.66.43.2 is closed
+MAC Address: 00:25:45:33:66:7F (Cisco Systems)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.66.43.3
+Host is up (0.014s latency).
+The 1 scanned port on 10.66.43.3 is closed
+MAC Address: 00:25:45:33:68:FF (Cisco Systems)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.66.43.10
+Host is up (0.015s latency).
+PORT   STATE SERVICE VERSION
+22/tcp open  ssh     (protocol 2.0)
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at http://www.insecure.org/cgi-bin/servicefp-submit.cgi :
+SF-Port22-TCP:V=5.21%I=7%D=8/10%Time=5205EFDF%P=x86_64-unknown-linux-gnu%r
+SF:(NULL,12,"SSH-2\.0-CISCO_WLC\n");
+MAC Address: D0:D0:FD:1F:FD:6F (Unknown)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose|remote management|printer|WAP|proxy server
+Running (JUST GUESSING) : Linux 2.6.X|2.4.X (89%), Cisco embedded (87%), Lexmark embedded (86%), Linksys Linux 2.4.X (86%), Gemtek embedded (85%), Siemens embedded (85%), SonicWALL embedded (85%)
+Aggressive OS guesses: Linux 2.6.24 (89%), Cisco 4402 wireless LAN controller (87%), Lexmark 1400-series printer (86%), Lexmark X644e printer (86%), OpenWrt White Russian 0.9 (Linux 2.4.30) (86%), OpenWrt 0.9 - 7.09 (Linux 2.4.30 - 2.4.34) (86%), OpenWrt Kamikaze 7.09 (Linux 2.6.22) (86%), Gemtek P360 WAP or Siemens Gigaset SE515dsl wireless broadband router (85%), Lexmark E332n printer (85%), SonicWALL Aventail EX-6000 VPN appliance (85%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 1 hop
+
+Nmap scan report for 10.66.43.11
+Host is up (0.015s latency).
+PORT   STATE SERVICE VERSION
+22/tcp open  ssh     (protocol 2.0)
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at http://www.insecure.org/cgi-bin/servicefp-submit.cgi :
+SF-Port22-TCP:V=5.21%I=7%D=8/10%Time=5205EFDF%P=x86_64-unknown-linux-gnu%r
+SF:(NULL,12,"SSH-2\.0-CISCO_WLC\n");
+MAC Address: D0:D0:FD:1F:FA:CF (Unknown)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose|remote management|WAP|printer|proxy server
+Running (JUST GUESSING) : Linux 2.6.X|2.4.X (89%), Cisco embedded (88%), Linksys Linux 2.4.X (87%), Gemtek embedded (87%), Siemens embedded (87%), Lexmark embedded (86%), SonicWALL embedded (86%)
+Aggressive OS guesses: Linux 2.6.24 (89%), Cisco 4402 wireless LAN controller (88%), OpenWrt White Russian 0.9 (Linux 2.4.30) (87%), Gemtek P360 WAP or Siemens Gigaset SE515dsl wireless broadband router (87%), Lexmark 1400-series printer (86%), Lexmark X644e printer (86%), OpenWrt 0.9 - 7.09 (Linux 2.4.30 - 2.4.34) (86%), OpenWrt Kamikaze 7.09 (Linux 2.6.22) (86%), SonicWALL Aventail EX-6000 VPN appliance (86%), Lexmark E332n printer (85%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 1 hop
+
+Nmap scan report for 10.66.43.12
+Host is up (0.018s latency).
+PORT   STATE SERVICE VERSION
+22/tcp open  ssh     (protocol 2.0)
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at http://www.insecure.org/cgi-bin/servicefp-submit.cgi :
+SF-Port22-TCP:V=5.21%I=7%D=8/10%Time=5205EFDF%P=x86_64-unknown-linux-gnu%r
+SF:(NULL,12,"SSH-2\.0-CISCO_WLC\n");
+MAC Address: 64:00:F1:F5:9F:2F (Unknown)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose|remote management|WAP|proxy server|printer
+Running (JUST GUESSING) : Linux 2.6.X|2.4.X (89%), Cisco embedded (88%), Linksys Linux 2.4.X (87%), SonicWALL embedded (87%), Gemtek embedded (87%), Siemens embedded (87%), Lexmark embedded (86%)
+Aggressive OS guesses: Linux 2.6.24 (89%), Cisco 4402 wireless LAN controller (88%), OpenWrt White Russian 0.9 (Linux 2.4.30) (87%), SonicWALL Aventail EX-6000 VPN appliance (87%), Gemtek P360 WAP or Siemens Gigaset SE515dsl wireless broadband router (87%), Lexmark 1400-series printer (86%), Lexmark X644e printer (86%), OpenWrt 0.9 - 7.09 (Linux 2.4.30 - 2.4.34) (86%), OpenWrt Kamikaze 7.09 (Linux 2.6.22) (86%), Lexmark E332n printer (85%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 1 hop
+
+Nmap scan report for 10.66.43.13
+Host is up (0.014s latency).
+PORT   STATE SERVICE VERSION
+22/tcp open  ssh     (protocol 2.0)
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at http://www.insecure.org/cgi-bin/servicefp-submit.cgi :
+SF-Port22-TCP:V=5.21%I=7%D=8/10%Time=5205EFDF%P=x86_64-unknown-linux-gnu%r
+SF:(NULL,12,"SSH-2\.0-CISCO_WLC\n");
+MAC Address: 88:43:E1:7E:57:EF (Unknown)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: WAP|webcam|general purpose|remote management|printer|proxy server
+Running (JUST GUESSING) : Linksys Linux 2.4.X (91%), Linux 2.4.X|2.6.X (90%), Gemtek embedded (89%), Siemens embedded (89%), AXIS Linux 2.6.X (89%), Cisco embedded (88%), Lexmark embedded (86%), SonicWALL embedded (86%)
+Aggressive OS guesses: OpenWrt White Russian 0.9 (Linux 2.4.30) (91%), OpenWrt 0.9 - 7.09 (Linux 2.4.30 - 2.4.34) (90%), OpenWrt Kamikaze 7.09 (Linux 2.6.22) (90%), Gemtek P360 WAP or Siemens Gigaset SE515dsl wireless broadband router (89%), AXIS 211A Network Camera (Linux 2.6) (89%), AXIS 211A Network Camera (Linux 2.6.20) (89%), Linux 2.6.24 (89%), Cisco 4402 wireless LAN controller (88%), OpenWrt (Linux 2.4.32) (87%), Linux 2.6.15 - 2.6.27 (87%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 1 hop
+
+Nmap scan report for 10.66.43.33
+Host is up (0.023s latency).
+The 1 scanned port on 10.66.43.33 is closed
+MAC Address: 54:26:96:68:0B:01 (Unknown)
+Device type: phone|media device|general purpose|proxy server|specialized
+Running: Apple iPhone OS 1.X|2.X|3.X, Apple Mac OS X 10.2.X|10.3.X|10.4.X|10.5.X, Blue Coat SGOS 5.X, FreeBSD 4.X|5.X, VMware ESX Server 3.X
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.66.43.34
+Host is up (0.027s latency).
+The 1 scanned port on 10.66.43.34 is closed
+MAC Address: D8:D1:CB:87:0F:5B (Unknown)
+Device type: phone|media device|general purpose|specialized
+Running: Apple iPhone OS 1.X|2.X|3.X, Apple Mac OS X 10.5.X, VMware ESX Server 3.X
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.66.43.35
+Host is up (0.020s latency).
+The 1 scanned port on 10.66.43.35 is filtered
+MAC Address: 34:51:C9:BB:2C:C5 (Unknown)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.66.43.36
+Host is up (0.058s latency).
+The 1 scanned port on 10.66.43.36 is closed
+MAC Address: C8:AA:21:84:A7:A6 (Unknown)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.66.43.38
+Host is up (0.020s latency).
+The 1 scanned port on 10.66.43.38 is filtered
+MAC Address: 14:8F:C6:B2:F0:AC (Unknown)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.66.43.39
+Host is up (0.022s latency).
+The 1 scanned port on 10.66.43.39 is closed
+MAC Address: 94:94:26:AB:96:9B (Unknown)
+Device type: phone|media device|general purpose|proxy server|specialized
+Running: Apple iPhone OS 1.X|2.X|3.X, Apple Mac OS X 10.2.X|10.3.X|10.4.X|10.5.X, Blue Coat SGOS 5.X, FreeBSD 4.X|5.X, VMware ESX Server 3.X
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.66.43.41
+Host is up (0.026s latency).
+The 1 scanned port on 10.66.43.41 is filtered
+MAC Address: 84:38:35:BE:51:F9 (Unknown)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.66.43.43
+Host is up (0.063s latency).
+The 1 scanned port on 10.66.43.43 is closed
+MAC Address: A0:0B:BA:D0:69:2C (Unknown)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.66.43.44
+Host is up (0.027s latency).
+The 1 scanned port on 10.66.43.44 is closed
+MAC Address: E8:99:C4:98:86:60 (Unknown)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.66.43.45
+Host is up (0.042s latency).
+The 1 scanned port on 10.66.43.45 is closed
+MAC Address: D8:9E:3F:D5:06:54 (Unknown)
+Device type: phone|media device|general purpose|specialized
+Running: Apple iPhone OS 1.X|2.X|3.X, Apple Mac OS X 10.5.X, VMware ESX Server 3.X
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.66.43.46
+Host is up (0.031s latency).
+The 1 scanned port on 10.66.43.46 is closed
+MAC Address: 6C:3E:6D:95:CE:0C (Unknown)
+Device type: phone|media device|general purpose|specialized
+Running: Apple iPhone OS 1.X|2.X|3.X, Apple Mac OS X 10.5.X, VMware ESX Server 3.X
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.66.43.50
+Host is up (0.014s latency).
+The 1 scanned port on 10.66.43.50 is closed
+MAC Address: D4:20:6D:F5:12:A1 (Unknown)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.66.43.52
+Host is up (0.056s latency).
+The 1 scanned port on 10.66.43.52 is closed
+MAC Address: 0C:37:DC:8B:6F:BF (Unknown)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.66.43.53
+Host is up (0.031s latency).
+The 1 scanned port on 10.66.43.53 is closed
+MAC Address: 24:69:A5:19:45:32 (Unknown)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.66.43.55
+Host is up (0.000051s latency).
+PORT   STATE SERVICE VERSION
+22/tcp open  ssh     OpenSSH 5.9p1 Debian 5ubuntu1.1 (protocol 2.0)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose|webcam|specialized|WAP|firewall
+Running (JUST GUESSING) : Linux 2.6.X|2.4.X (96%), AXIS Linux 2.6.X (91%), Crestron 2-Series (89%), Gemtek embedded (88%), Siemens embedded (88%), Check Point embedded (88%), Check Point Linux 2.4.X (88%)
+Aggressive OS guesses: Linux 2.6.19 - 2.6.31 (96%), Linux 2.6.22 (Ubuntu 7.10, x86_64) (96%), Linux 2.6.31 - 2.6.32 (93%), Linux 2.6.17 - 2.6.30 (93%), Linux 2.6.22 (93%), Linux 2.6.31 (92%), Linux 2.6.17 - 2.6.26 (92%), Linux 2.6.24 (91%), AXIS 211A Network Camera (Linux 2.6) (91%), AXIS 211A Network Camera (Linux 2.6.20) (91%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 0 hops
+Service Info: OS: Linux
+
+Nmap scan report for 10.66.43.56
+Host is up (0.029s latency).
+The 1 scanned port on 10.66.43.56 is filtered
+MAC Address: 20:7C:8F:77:48:52 (Quanta Microsystems)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.66.43.58
+Host is up (0.023s latency).
+The 1 scanned port on 10.66.43.58 is closed
+MAC Address: 20:C9:D0:DC:6B:E9 (Unknown)
+Device type: phone|media device|general purpose|proxy server|specialized
+Running: Apple iPhone OS 1.X|2.X|3.X, Apple Mac OS X 10.2.X|10.3.X|10.4.X|10.5.X, Blue Coat SGOS 5.X, FreeBSD 4.X|5.X, VMware ESX Server 3.X
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.66.43.61
+Host is up (0.024s latency).
+The 1 scanned port on 10.66.43.61 is closed
+MAC Address: 7C:E9:D3:EF:D7:82 (Unknown)
+Device type: general purpose
+Running: Microsoft Windows 2008|Longhorn|Vista|7
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.66.43.62
+Host is up (0.032s latency).
+The 1 scanned port on 10.66.43.62 is closed
+MAC Address: FC:25:3F:44:6A:B9 (Unknown)
+Device type: phone|media device|general purpose|proxy server|specialized
+Running: Apple iPhone OS 1.X|2.X|3.X, Apple Mac OS X 10.2.X|10.3.X|10.4.X|10.5.X, Blue Coat SGOS 5.X, FreeBSD 4.X|5.X, VMware ESX Server 3.X
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.66.43.64
+Host is up (0.028s latency).
+The 1 scanned port on 10.66.43.64 is filtered
+MAC Address: EC:55:F9:8F:C3:E9 (Unknown)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.66.43.65
+Host is up (0.011s latency).
+The 1 scanned port on 10.66.43.65 is filtered
+MAC Address: F4:B7:E2:15:7B:09 (Unknown)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.66.43.67
+Host is up (0.014s latency).
+The 1 scanned port on 10.66.43.67 is filtered
+MAC Address: 34:C0:59:1F:63:7B (Unknown)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.66.43.68
+Host is up (0.017s latency).
+The 1 scanned port on 10.66.43.68 is closed
+MAC Address: 5C:B5:24:B9:6F:B1 (Unknown)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.66.43.69
+Host is up (0.021s latency).
+The 1 scanned port on 10.66.43.69 is closed
+MAC Address: 54:26:96:CE:4C:75 (Unknown)
+Device type: phone|media device|general purpose|proxy server|specialized
+Running: Apple iPhone OS 1.X|2.X|3.X, Apple Mac OS X 10.2.X|10.3.X|10.4.X|10.5.X, Blue Coat SGOS 5.X, FreeBSD 4.X|5.X, VMware ESX Server 3.X
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.66.43.70
+Host is up (0.024s latency).
+The 1 scanned port on 10.66.43.70 is closed
+MAC Address: C8:33:4B:64:FB:26 (Unknown)
+Device type: phone|media device|general purpose|proxy server|specialized
+Running: Apple iPhone OS 1.X|2.X|3.X, Apple Mac OS X 10.2.X|10.3.X|10.4.X|10.5.X, Blue Coat SGOS 5.X, FreeBSD 4.X|5.X, VMware ESX Server 3.X
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.66.43.72
+Host is up (0.028s latency).
+The 1 scanned port on 10.66.43.72 is closed
+MAC Address: EC:23:3D:AD:3C:C1 (Unknown)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.66.43.73
+Host is up (0.014s latency).
+The 1 scanned port on 10.66.43.73 is filtered
+MAC Address: E8:8D:28:A1:1F:31 (Unknown)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.66.43.75
+Host is up (0.019s latency).
+The 1 scanned port on 10.66.43.75 is filtered
+MAC Address: 64:20:0C:32:56:21 (Unknown)
+Device type: phone|media device|general purpose|specialized
+Running: Apple iPhone OS 1.X|2.X|3.X, Apple Mac OS X 10.5.X, VMware ESX Server 3.X
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.66.43.76
+Host is up (0.017s latency).
+The 1 scanned port on 10.66.43.76 is filtered
+MAC Address: B8:C7:5D:64:34:94 (Unknown)
+Device type: phone|media device|general purpose|proxy server|specialized
+Running: Apple iPhone OS 1.X|2.X|3.X, Apple Mac OS X 10.2.X|10.3.X|10.4.X|10.5.X, Blue Coat SGOS 5.X, FreeBSD 4.X|5.X, VMware ESX Server 3.X
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.66.43.77
+Host is up (0.025s latency).
+The 1 scanned port on 10.66.43.77 is closed
+MAC Address: CC:08:E0:27:28:DB (Unknown)
+Device type: phone|media device|general purpose|proxy server|specialized
+Running: Apple iPhone OS 1.X|2.X|3.X, Apple Mac OS X 10.2.X|10.3.X|10.4.X|10.5.X, Blue Coat SGOS 5.X, FreeBSD 4.X|5.X, VMware ESX Server 3.X
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.66.43.78
+Host is up (0.028s latency).
+The 1 scanned port on 10.66.43.78 is closed
+MAC Address: C4:6A:B7:BC:F6:87 (Unknown)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.66.43.79
+Host is up (0.022s latency).
+The 1 scanned port on 10.66.43.79 is closed
+MAC Address: 90:18:7C:20:5B:C9 (Unknown)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.66.43.80
+Host is up (0.034s latency).
+The 1 scanned port on 10.66.43.80 is closed
+MAC Address: F4:1B:A1:2A:84:56 (Unknown)
+Device type: phone|media device|general purpose|specialized
+Running: Apple iPhone OS 1.X|2.X|3.X, Apple Mac OS X 10.5.X, VMware ESX Server 3.X
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.66.43.81
+Host is up (0.037s latency).
+The 1 scanned port on 10.66.43.81 is closed
+MAC Address: F8:7B:7A:03:F6:30 (Unknown)
+Device type: general purpose|broadband router|remote management|bridge|WAP
+Running: FreeBSD 8.X, GlobespanVirata embedded, Huawei embedded, Solwise embedded, HP iLO, Linksys embedded, Linux 2.4.X|2.6.X, Microsoft Windows XP
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.66.43.82
+Host is up (0.026s latency).
+The 1 scanned port on 10.66.43.82 is closed
+MAC Address: A8:88:08:4F:F4:83 (Unknown)
+Device type: phone|media device|general purpose|proxy server|specialized
+Running: Apple iPhone OS 1.X|2.X|3.X, Apple Mac OS X 10.2.X|10.3.X|10.4.X|10.5.X, Blue Coat SGOS 5.X, FreeBSD 4.X|5.X, VMware ESX Server 3.X
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.66.43.83
+Host is up (0.026s latency).
+The 1 scanned port on 10.66.43.83 is filtered
+MAC Address: 50:CC:F8:CF:EA:0D (Unknown)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.66.43.156
+Host is up (0.12s latency).
+The 1 scanned port on 10.66.43.156 is closed
+MAC Address: 00:37:6D:00:AA:5C (Unknown)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.66.43.201
+Host is up (0.022s latency).
+The 1 scanned port on 10.66.43.201 is filtered
+MAC Address: 14:8F:C6:75:6C:2D (Unknown)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose
+Running: FreeBSD 5.X
+OS details: FreeBSD 5.4-RELEASE
+Network Distance: 1 hop
+
+Nmap scan report for 10.66.43.205
+Host is up (0.043s latency).
+The 1 scanned port on 10.66.43.205 is closed
+MAC Address: 6C:8B:2F:3D:C7:76 (Unknown)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose
+Running: Linux 2.6.X
+OS details: Linux 2.6.14 - 2.6.16, Linux 2.6.17, Linux 2.6.17 (Mandriva)
+Network Distance: 1 hop
+
+Nmap scan report for 10.66.43.221
+Host is up (0.0052s latency).
+PORT   STATE SERVICE VERSION
+22/tcp open  ssh     OpenSSH 5.9p1 Debian 5ubuntu1.1 (protocol 2.0)
+MAC Address: E0:94:67:06:C1:52 (Unknown)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose|webcam|specialized|firewall|WAP
+Running (JUST GUESSING) : Linux 2.6.X|2.4.X (95%), AXIS Linux 2.6.X (91%), Crestron 2-Series (89%), Check Point embedded (89%), Check Point Linux 2.4.X (89%), Gemtek embedded (88%), Siemens embedded (88%)
+Aggressive OS guesses: Linux 2.6.22 (95%), Linux 2.6.17 - 2.6.31 (93%), AXIS 211A Network Camera (Linux 2.6) (91%), AXIS 211A Network Camera (Linux 2.6.20) (91%), Linux 2.6.24 (90%), Linux 2.6.19 - 2.6.31 (90%), Linux 2.6.24 - 2.6.31 (90%), Linux 2.6.13 - 2.6.28 (89%), Linux 2.6.22 - 2.6.23 (89%), Crestron XPanel control system (89%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 1 hop
+Service Info: OS: Linux
+
+OS and Service detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (47 hosts up) scanned in 33.38 seconds
