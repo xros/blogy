@@ -19,7 +19,7 @@ from contextlib import closing
 
 
 # configuration
-DATABASE = '/home/alex/sandbox/env_27_flask/flaskr/flaskr.db'
+DATABASE = '/home/phone/sandbox/env_27_flask/blogy/flaskr.db'
 DEBUG = True
 SECRET_KEY = 'development key'
 USERNAME = 'admin'
